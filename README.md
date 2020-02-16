@@ -1,1 +1,4 @@
 # PersistenceFrameworkDevelopment
+持久化框架开发主要包含两大框架的学习，Hibernate和Mybatis。
+Hibernate课程中主要讲解框架的搭建，处理单实体、继承、一对一、一对多、多对多等关系的映射,如何操作持久化对象及其他高级用法
+Mybatis主要对框架的搭建、如何完成持久化，如何处理关系映射，高级用法及继承其他框架方面进行讲解
